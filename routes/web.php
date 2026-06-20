@@ -7,5 +7,3 @@ Route::get('/', function () {
         'message' => 'Travel API is running'
     ]);
 });
-
-require __DIR__.'/settings.php';
